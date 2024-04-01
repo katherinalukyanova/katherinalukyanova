@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 👨‍💻 All of my projects are available at [in progress]
 
 - 📫 How to reach me **katherinalukyanova@gmail.com**
 
